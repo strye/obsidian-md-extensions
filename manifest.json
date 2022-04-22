@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-md-extensions",
+	"name": "Extension Manager",
+	"version": "1.0.0",
+	"minAppVersion": "0.3.0",
+	"description": "This plugin allows you to create a list of additional file extensions to open and edit as markdown file.",
+	"author": "Strye",
+	"authorUrl": "https://github.com/strye/md-extensions-obsidian",
+	"isDesktopOnly": false
+}

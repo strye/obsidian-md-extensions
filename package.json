@@ -1,0 +1,13 @@
+{
+	"name": "obsidian-md-extensions",
+	"version": "1.0.0",
+	"description": "This Obsidian plugin allows you to create a list of additional file extensions to open and edit as markdown file.",
+	"main": "main.js",
+	"scripts": {
+	  "build": "rollup --config",
+	  "test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Will Strye",
+	"license": "ISC"
+  }
+  
